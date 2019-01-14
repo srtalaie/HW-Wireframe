@@ -1,2 +1,3 @@
-# HW-Wireframe
-Homework Assignment 1 - Wireframe
+Wireframe
+
+Basic wireframe built out using HTML.
